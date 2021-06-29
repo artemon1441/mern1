@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "peremennaya tipok",
+    "mongoUri":"mongodb+srv://BabbaDNina:54149Energy@react1.nikua.mongodb.net/React1?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
